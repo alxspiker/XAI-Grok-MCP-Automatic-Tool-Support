@@ -6,6 +6,8 @@
 
 ## Overview
 
+Example chat: https://grok.com/share/bGVnYWN5_01e75c25-0726-457d-971c-dff51d8aa069
+
 This repository contains **Grok Excess**, a desktop application built with PyQt6 that enhances XAI's Grok (versions 3/4) by providing automatic tool support via integration with MCP (Multi-Computer Protocol) servers. MCP is a protocol used by Anthropic's Claude Desktop for local tool execution (e.g., running scripts, accessing files, or other custom tools on your machine).
 
 The application embeds the Grok web interface (from https://grok.com) in a browser window and automates the following:
