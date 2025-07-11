@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Leverages MCP from [Anthropic's Claude Desktop](https://www.anthropic.com/claude) for tool execution.
 - Inspired by autonomous AI agent patterns.
 
-For issues, open a GitHub ticket. Last updated: July 10, 2025.
+For issues, open a GitHub ticket.
